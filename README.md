@@ -15,7 +15,7 @@ The primary objective of this project was to transform complex transactional dat
 
 ## Project Structure
 * Northwind_Queries.sql: Source code containing the SQL queries implemented to isolate shipping carrier performance, revenue per sales agent, and profitability by product category.
-* *Interactive Dashboard:* [👉 Click here to view the live Dashboard on Tableau Public] (https://public.tableau.com/views/Northwind_17842562162540/NorthwindDashboard?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+* *Interactive Dashboard:* (https://public.tableau.com/views/Northwind_17842562162540/NorthwindDashboard?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## Key Business Insights
 * *Logistics & Supply Chain Efficiency:* Identified that a single shipping partner handles 40.07% of the total distribution volume. This insight allows management to strategically evaluate carrier dependency and renegotiate contract terms.
